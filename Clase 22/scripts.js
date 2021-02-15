@@ -1,5 +1,4 @@
 /*
-esta es una prueba del repositorio
 Spread Operator (operador de expansión)
 
 Su sintaxis es ...
